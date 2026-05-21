@@ -97,3 +97,7 @@ MIT License
 
 GitHub Repository:
 https://github.com/Sakshi-2508/profile_lift
+
+## Package
+pub.dev Package:
+https://pub.dev/packages/profile_lift
